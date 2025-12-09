@@ -1,10 +1,10 @@
-#🚇 Delhi Metro Network Analysis
+🚇 Delhi Metro Network Analysis
 
 A data analytics project focused on understanding the structure, expansion, and spatial layout of the Delhi Metro — one of India’s largest rapid transit systems.
 
 This repository contains a Jupyter Notebook that performs geospatial mapping, visual analysis, and pattern identification using Python.
 
-##📌 Project Overview
+📌 Project Overview
 
 The Delhi Metro has expanded rapidly over the past two decades.
 This project explores:
